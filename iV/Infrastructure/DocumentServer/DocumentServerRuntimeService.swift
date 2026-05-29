@@ -51,6 +51,14 @@ struct LiveDocumentServerRuntimeService: DocumentServerRuntimeManaging {
     static let imageName = "onlyoffice/documentserver"
     static let healthPollIntervalNanoseconds: UInt64 = 2_000_000_000
     static let healthPollAttempts = 60
+    private static let requiredContainerEnvironment = [
+        "JWT_ENABLED=false",
+        // ONLYOFFICE blocks private-network document URLs by default. iV serves local DOCX
+        // files from the Mac through host.docker.internal, so the managed local container
+        // must explicitly allow that address class. This is only for the local dev/runtime
+        // container the app owns; user-provided Document Server URLs are still localhost-only.
+        "ALLOW_PRIVATE_IP_ADDRESS=true",
+    ]
 
     func resolveStatus(
         serverURL: String,
@@ -234,7 +242,10 @@ struct LiveDocumentServerRuntimeService: DocumentServerRuntimeManaging {
                 environment: DockerLocator.dockerEnvironment()
             )
             guard envResult.exitCode == 0 else { return true }
-            let jwtDisabled = envResult.stdout.lowercased().contains("jwt_enabled=false")
+            let containerEnvironment = envResult.stdout.lowercased()
+            let hasRequiredEnvironment = Self.requiredContainerEnvironment.allSatisfy {
+                containerEnvironment.contains($0.lowercased())
+            }
 
             let hostResult = try await ProcessRunner.run(
                 executableURL: dockerURL,
@@ -245,7 +256,7 @@ struct LiveDocumentServerRuntimeService: DocumentServerRuntimeManaging {
             let hosts = hostResult.stdout.lowercased()
             let hasHostGateway = hosts.contains("host.docker.internal") && hosts.contains("host-gateway")
 
-            return !(jwtDisabled && hasHostGateway)
+            return !(hasRequiredEnvironment && hasHostGateway)
         } catch {
             return true
         }
@@ -273,6 +284,7 @@ struct LiveDocumentServerRuntimeService: DocumentServerRuntimeManaging {
                 "-p", "\(hostPort):80",
                 "--add-host", "\(LocalManuscriptDocumentServer.documentServerFetchHost):host-gateway",
                 "-e", "JWT_ENABLED=false",
+                "-e", "ALLOW_PRIVATE_IP_ADDRESS=true",
                 Self.imageName,
             ],
             environment: environment,
