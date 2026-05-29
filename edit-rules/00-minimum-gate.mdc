@@ -1,0 +1,61 @@
+---
+description: Minimum always-on gate for iV manuscript prose work
+alwaysApply: true
+---
+
+# iV Minimum Gate
+
+This is the short always-on rule. It defines minimum stop conditions, not the full prose standard.
+
+For prose work, load `01-core-prose-standards.mdc` first. If the requested task is narrow, load only the relevant specialized rule files plus core standards:
+
+- style, rhythm, anti-AI cleanup -> `02-style-line-control.mdc`
+- dialogue or speech rhythm -> `03-dialogue-standards.mdc`
+- character voice or POV -> `04-character-voices.mdc`
+- magic, institutions, lore, exposition -> `05-world-magic-information.mdc`
+- atmosphere, discomfort, setting, sensory prose -> `06-atmosphere-discomfort-sensory.mdc`
+- action, violence, pursuit, injury, aftermath -> `07-action-violence-aftermath.mdc`
+- canon spelling, transliteration, mixed script, russisms -> `08-canon-language.mdc`
+- scene logic, POV causality, reaction plausibility, inference checks -> `09-causality-pov-logic.mdc`
+
+If this short gate and specialized standards overlap, the specialized standards define the full behavior. This file only defines the minimum stop conditions.
+
+Also read `ПОВНИЙ_РЕДАКТОРСЬКИЙ_АНАЛІЗ.md` when the task touches issues diagnosed there. If continuity matters, read the nearest previous chapter or extracted text before drafting or editing.
+
+## Minimum Gate Before Prose Work
+
+Before producing prose-related output, answer internally:
+
+- Mode: analysis, editorial, drafting, or rewrite?
+- Continuity: what ended immediately before this scene/chapter, and what consequence carries forward?
+- Function: what changes by the end of the scene/chapter?
+- Pressure: what risk, debt, body cost, power shift, route, trust, safety, or future action changes?
+- Information: what may the reader know now, suspect now, and not be told yet?
+- POV: is this filtered through Tom's body, route, danger, shame, money, hunger, or magical cost rather than author-thinks?
+- Logic: does each reaction, inference, description, and line of dialogue follow from what was actually perceived?
+- Language: are there any russisms, mixed-script errors, canon spelling issues, or unnatural Russian calques?
+- Dialogue: do voices differ, avoid prestige-TV banter, and change power or behavior?
+- Aftermath: is violence, magic, help, humiliation, or betrayal followed by practical consequence?
+- Style: is there any filler, decorative darkness, copied example, universal statement, or beautiful final line without new state?
+- Ledger: what time is it, where is everyone, what objects are active, what is Tom wearing/carrying, what has been introduced, what has not been introduced, and what can each character know?
+
+If any answer is unclear, read more context before drafting or editing. Do not guess.
+
+## Hard Stops
+
+Never proceed with prose work if:
+
+- the nearest previous chapter ending is unknown and continuity matters;
+- a scene only repeats suffering, poverty, cold, distrust, illness, shame, or humiliation;
+- the text explains theme, subtext, morality, or metaphysics before scene action earns it;
+- dialogue is only clever exchange;
+- atmosphere only decorates instead of changing behavior, risk, route, or cost;
+- a description gives false agency to city, house, rain, silence, night, room, or object without explicit magic;
+- a line of dialogue or character inference does not follow from a plausible trigger;
+- manuscript prose contains accidental russisms, Russian calques, or Russian-style syntax;
+- examples from the rules are being copied or mechanically imitated;
+- a rewrite introduces an object, garment, weapon, document, vehicle, public crowd, or sound cue without prior setup or immediate visible source;
+- local paragraph polish has not been followed by a whole-scene logic and continuity check;
+- the prose is being polished before structure, function, continuity, dialogue, aftermath, and pacing are checked.
+
+When in doubt, prioritize structure over sentence beauty, consequence over atmosphere, and specific behavior over abstract explanation.

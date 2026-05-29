@@ -1,0 +1,108 @@
+---
+description: USE WHEN editing manuscript language, names, transliteration, canon spelling, Ukrainian forms, or mixed script
+alwaysApply: true
+---
+
+# Canon And Language
+
+Small always-on canon rule. Apply for all manuscript work.
+
+## Canonical Name
+
+Canonical form: `Артур Беннетт`.
+
+Use declension from `Беннетт`:
+
+- `Беннетта`
+- `Беннетту`
+- `Беннеттом`
+- `Беннетте`
+- `Беннеттів`
+
+Do not use `Беннет` unless deliberately quoting an in-story error.
+
+## Transliteration
+
+Prefer Ukrainian transliteration for place names and public names unless Latin script is specifically functioning as a visible sign, document, brand, or foreign-language artifact.
+
+Known fixes:
+
+- `CastleCourt` -> `Каслкорт`
+- `Falls` -> `Фоллз` / `Фоллз-роуд`
+- `Antrim Road` -> `Антрім-роуд`
+- `Land Rover` -> `Ленд-Ровер` or a descriptive substitute
+- `Ardoyne` -> `Ардойн`
+- `Belfast Central` -> `Белфаст-Сентрал`
+- `Dublin Connolly` -> `Дублін-Конноллі`
+- `Europa` -> `Європа` / готель `«Європа»`
+
+If Latin script is retained as signage, pair it with Tom's Ukrainian perception when useful.
+
+## Mixed Script
+
+Check for mixed-script typos such as Latin letters inside Ukrainian words, e.g. `Томa` with Latin `a`.
+
+When editing manuscript prose, scan names, place names, institutional names, and visible text for mixed-script and inconsistent spelling.
+
+## No Russisms
+
+Russisms are not allowed in manuscript prose, narration, dialogue, descriptions, summaries, comments inserted into text, or generated replacement passages unless deliberately used as an in-story marker of a specific character's speech and explicitly justified by context.
+
+Before finalizing any Ukrainian prose, check for:
+
+- lexical russisms;
+- calques from Russian syntax;
+- Russian-style government of cases/prepositions;
+- unnatural participial or bureaucratic constructions;
+- Russian punctuation habits imported into Ukrainian;
+- false friends that sound Ukrainian but carry Russian usage;
+- dialogue that sounds like Russian translated word-for-word.
+
+Prefer natural Ukrainian phrasing even when it is less literal.
+
+Common replacements and warnings:
+
+- `приймати участь` -> `брати участь`
+- `приймати рішення` -> `ухвалювати рішення` / `вирішувати`
+- `на протязі` -> `протягом`
+- `по причині` -> `через` / `з причини`
+- `по мірі` -> `у міру`
+- `по крайній мірі` -> `принаймні`
+- `в кінці кінців` -> `зрештою`
+- `у більшості випадків` is acceptable, but avoid Russian-like overuse where `здебільшого` works.
+- `являється` -> `є`
+- `даний` as generic demonstrative -> `цей`, `такий`, or omit
+- `слідуючий` -> `наступний`
+- `оточуючий` -> `навколишній`
+- `бувший` -> `колишній`
+- `рахувати` meaning `вважати` -> use `вважати`; keep `рахувати` only for counting
+- `знаходитися` overuse -> often `бути`, `стояти`, `лежати`, `міститися`
+- `відноситися до` -> `належати до`, `стосуватися`
+- `відносно` overuse -> `щодо`, `стосовно`, `порівняно з`, depending on meaning
+- `на рахунок` meaning `щодо` -> `щодо`
+- `задавати питання` -> `ставити питання` / `питати`
+- `піднімати питання` -> `порушувати питання`
+- `заключатися в` -> `полягати в`
+- `співпадати` -> `збігатися`
+- `міроприємство` -> `захід`
+- `учбовий` -> `навчальний`
+- `любий` meaning `будь-який` -> `будь-який`
+- `другий` meaning `інший` -> `інший`
+- `самий` as superlative marker -> prefer `най-` forms, except in live colloquial speech if intentionally character-specific
+- `вірно` meaning `правильно` -> `правильно`
+- `об'єм` where `обсяг` is meant -> `обсяг`
+- `порядок денний` is acceptable, but avoid bureaucratic calques in intimate prose unless context requires.
+- `мати місце` -> usually rewrite as direct verb
+
+Case and preposition warnings:
+
+- avoid Russian-like `по + місцевий/давальний` where Ukrainian wants `на`, `у/в`, `за`, `через`, `щодо`, or an adverbial phrase;
+- avoid overusing `для того, щоб` where `щоб` is enough;
+- avoid Russian-like abstract noun chains where Ukrainian would use a verb;
+- avoid passive bureaucratic constructions when a concrete actor/action is available.
+
+Dialogue exception:
+
+If a russism is intentionally used to mark a character's background, class, occupation, political environment, or code-switching, it must be deliberate, rare, and locally meaningful. Do not let accidental russisms pass as voice.
+
+Final check: if a phrase sounds like it was translated from Russian rather than written in Ukrainian, rewrite it from scratch in natural Ukrainian.

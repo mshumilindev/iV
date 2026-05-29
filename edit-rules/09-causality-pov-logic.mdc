@@ -1,0 +1,210 @@
+---
+description: USE WHEN checking scene logic, POV filtering, causal continuity, reactions, inferences, sensory claims, or whether descriptions/replies actually follow from events
+alwaysApply: false
+---
+
+# Causality, POV, And Logic Gate
+
+Use this whenever prose contains observation, inference, reaction, dialogue triggered by an event, environmental description, movement through space, or scene-to-scene causality.
+
+## Core Rule
+
+Nothing in the prose may happen, be inferred, or be said just because it sounds atmospheric or meaningful.
+
+Every description, reaction, thought, and reply must pass a causal chain:
+
+stimulus -> what Tom can perceive -> what Tom can plausibly infer -> what the body does -> what the character says/does next.
+
+If any link is missing, rewrite.
+
+## Literal Logic Test
+
+A sentence must pass literal logic before causal logic.
+
+Check:
+
+- Is the named cause possible?
+- Is the contrast meaningful, not just rhythmic?
+- Does the grammar imply something impossible?
+- Could Tom or another character actually experience this as written?
+- Does the sentence use a vague abstraction where a concrete trigger is required?
+
+If a sentence says something like `he woke not from sleep`, `the room wanted`, `the city knew`, `the night answered`, or `the body agreed` without literal grounding or explicit magic, replace it with a concrete trigger: cold, pain, sound, light, touch, hunger, object pressure, or memory.
+
+Do not preserve a beautiful sentence whose literal meaning is wrong.
+
+## Preserve Source Beat Logic During Editing
+
+When editing existing prose, first identify what the source beat means.
+
+Do not change a line's function while fixing style, causality, or POV unless the user explicitly asks for that structural change.
+
+Examples of forbidden editorial drift:
+
+- a question about where an explosion happened becomes a question about where Tom is going;
+- a line about fear of the city becomes a line about relationship distrust;
+- a practical action becomes symbolic summary;
+- a reaction to a sound becomes a reaction to an unrelated object.
+
+If a source line is logically weak, repair the trigger while preserving its intended meaning. Do not invent a new meaning because it is easier to justify.
+
+## Beat Cluster Logic
+
+Do not validate causality only sentence by sentence. Many logic failures happen across a cluster of 3-6 paragraphs.
+
+For each important beat cluster, map:
+
+1. prior pressure already active before the cluster;
+2. concrete stimulus;
+3. what Tom can perceive;
+4. what another character can perceive;
+5. bodily reaction or non-reaction;
+6. dialogue triggered by the event or by existing subtext;
+7. action that follows;
+8. what this cluster changes for the scene.
+
+If a later line depends on an earlier cue, preserve that cue. If the cue is cut, replace it with another plausible cue before keeping the later line.
+
+Do not let a local fix relocate the meaning of a beat. A question caused by an explosion must remain tied to the explosion unless the user asks to change the scene's meaning. A refusal caused by relationship collapse must not become a generic tough line. A practical object must not become only a symbol.
+
+## POV Perception Test
+
+Before writing an observation, verify:
+
+- Can Tom physically see, hear, smell, touch, or remember this from his position?
+- Is the sensory source clear?
+- Is the distance plausible?
+- Is the timing plausible?
+- Would Tom attend to this in his current state?
+- Is this Tom's inference, or the narrator assigning meaning?
+
+If Tom cannot know it, do not state it as fact. Either cut it, make it a partial inference, or move it into observable behavior.
+
+## No False Agency
+
+Do not give buildings, rain, night, silence, city, rooms, streets, or objects decision-making agency unless the scene is explicitly magical and the POV registers it as such.
+
+Avoid formulations where non-agentive things "decide", "know", "answer", "refuse", "forgive", "understand", "wait", "swallow", "judge", or "choose" only to sound literary.
+
+Bad pattern:
+
+- the house decided danger had passed;
+- the city knew;
+- rain answered;
+- silence refused;
+- night swallowed.
+
+Prefer observable causality:
+
+- water started in the pipes upstairs;
+- someone moved after the engine passed;
+- the room stayed quiet because no one spoke;
+- Tom waited for the second sound and did not hear it.
+
+## Dialogue Trigger Logic
+
+A line of dialogue must follow from what the speaker plausibly heard, saw, feared, remembered, or was already thinking.
+
+Before a reply, ask:
+
+- What exactly triggered this line?
+- What did this line mean in the source passage, if editing existing prose?
+- Did the speaker hear enough to say this?
+- Is the speaker responding to the event, the subtext, or a prior unresolved topic?
+- If responding to subtext, is that subtext already present in the scene?
+- Would this person phrase it now, or is the author forcing the next beat?
+
+Do not let a passing vehicle, vague sound, or atmospheric event trigger an overly specific line unless the connection is grounded. If someone says "Фоллз?", the preceding stimulus must plausibly suggest Фоллз: sound direction, known pattern, prior conversation, news, route, smoke, siren, or the speaker's anxiety about Tom's usual destinations.
+
+## Cause Before Meaning
+
+Do not move from event to symbolic meaning without practical cause.
+
+First establish:
+
+- what happened;
+- where it happened;
+- who noticed;
+- what changed physically;
+- why the next line/action follows.
+
+Only then may the prose carry emotional or thematic weight.
+
+## Reaction Consistency
+
+Characters must not react for the author's convenience.
+
+Check:
+
+- If a sound occurs, who hears it and why?
+- If someone does not react, is that habituation established through behavior, not author claim?
+- If someone asks a question, what visible detail made them ask?
+- If Tom changes route, what immediate risk caused it?
+- If a social detail appears, does it affect route, threat, timing, or perception?
+
+Avoid reactions that exist only to deliver exposition or atmosphere.
+
+## Spatial And Temporal Logic
+
+Keep physical sequencing coherent:
+
+- where is Tom in relation to doors, windows, roads, blockposts, stairs, alleys?
+- what can be seen from the kitchen window?
+- how close is the vehicle/sound/explosion?
+- how much time passes between sound, inference, line, and action?
+- does the route make sense with the object he carries?
+- does the next scene carry the last physical state?
+- has every active object or garment been introduced before use?
+- does time of day match visible people, transit, open shops, pub life, deliveries, patrols, and street noise?
+
+If the reader can ask "how would they know that?" or "why would that follow?", fix the cause.
+
+## Object And State Continuity
+
+Track objects and body states across the whole scene:
+
+- cigarette: in hand, on table, in pack, lit, discarded;
+- matches/lighter: introduced before use;
+- coat/jacket: on hook, on body, buttoned, wet, removed;
+- bag: packed, lifted, strap position, weight, contents that matter later;
+- keys/locks: object, sound, action, who controls access;
+- cup/kettle/paper/photo: where it is, whether it has already done its emotional work;
+- injuries, cold, hunger, sleep, pain: carry forward without mechanically repeating.
+
+If a later sentence requires an object or state, plant it earlier through a concrete action or remove the later sentence.
+
+## Inference Marking
+
+Separate facts from inferences.
+
+Fact: what Tom directly perceives.
+
+Inference: what Tom thinks it means.
+
+Suspicion: what he cannot prove.
+
+Do not present inference as omniscient fact unless the POV has earned it. When needed, mark uncertainty through action or partial phrasing, not automatic `ніби/наче/здавалося`.
+
+## Environmental Description Logic
+
+Environment must not merely decorate and must not make unsupported claims.
+
+A building can transmit sound, leak, smell, trap heat, expose people, hide footsteps, or force movement. It cannot "decide" or "know" unless magic is active.
+
+A city can be shown through people, routes, institutions, weather, soldiers, shops, and habits. It should not become a vague thinking entity.
+
+## Final QA For Logic
+
+Before finishing prose work, check:
+
+- every specific line of dialogue has a plausible trigger;
+- every inference has an observable basis;
+- every environmental description is either physical fact, Tom's perception, or clearly marked inference;
+- no non-magical object/place/weather has false agency;
+- no scene jumps from sound/image to conclusion without cause;
+- no character knows location, motive, or meaning without evidence;
+- no social detail is inserted without pressure on route, risk, timing, class, or POV;
+- no active object, garment, sound, or public presence appears without setup or plausible source;
+- no local edit has broken the logic of the full beat cluster;
+- no sentence has a polished surface but impossible or incoherent literal meaning;
+- no paragraph sounds good while failing basic "why does this follow?" logic.

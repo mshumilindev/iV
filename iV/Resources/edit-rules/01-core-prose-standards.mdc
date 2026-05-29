@@ -1,0 +1,281 @@
+---
+description: Core iV prose standards for structure, continuity, scene function, chapter integrity, and revision order
+alwaysApply: false
+---
+
+# Core Prose Standards
+
+Use this for nearly all manuscript prose work. Load specialized rules only as needed.
+
+Examples in rules are diagnostic patterns only. Do not copy or mechanically imitate them.
+
+If rules conflict, prioritize: continuity, causality, and scene function first; clarity of physical action second; character truth third; information discipline fourth; style fifth; line beauty last.
+
+## Working Modes
+
+Analysis mode:
+
+- Diagnose, map, compare, and explain.
+- Do not rewrite unless the user asks for examples.
+- Do not silently "improve" manuscript prose.
+
+Editorial mode:
+
+- Preserve scene intent, canon, sequence, and character decisions.
+- Preserve the original causal and semantic function of each beat unless the user explicitly asks to change it.
+- Do not reinterpret a line's meaning to solve a local logic issue; first verify what the line meant in the source passage.
+- Make the smallest change that fixes the diagnosed issue.
+- Do not add lore, symbolism, new emotion, or plot beats without need.
+- If a passage already fulfills function, voice, POV, consequence, continuity, and rhythm, leave it alone.
+
+Drafting mode:
+
+- Build from function: pressure, desire, obstacle, turn, consequence.
+- Decide what the reader may know, suspect, and not know yet.
+- After drafting, run continuity, scene, dialogue, pacing, information, and QA checks.
+
+Rewrite mode:
+
+- Replace broken structure outright when the branch is in progress.
+- Do not layer elegant prose over a broken beat.
+- Keep only lines, objects, and exchanges that serve the revised function.
+
+## Core Standard
+
+No filler. Every scene, paragraph, sentence, description, thought, dialogue line, and micro-action must do at least one job:
+
+- move plot;
+- change a character's state;
+- shift power between characters;
+- create a practical consequence;
+- deepen the world through concrete behavior;
+- change risk, route, debt, trust, bodily capacity, access to safety, interpretation, or future action.
+
+If a unit only sounds beautiful, atmospheric, dark, intelligent, or literary, cut or rewrite it.
+
+## Literal Meaning And Semantic Load
+
+Every sentence must make literal sense before it is allowed to carry style, rhythm, or subtext.
+
+Before approving a sentence, ask:
+
+- what does this sentence literally say?
+- can this happen physically, temporally, and causally?
+- is the contrast real, or only a polished `not X but Y` shape?
+- does the sentence add new pressure, information, consequence, action, perception, or character truth?
+- would a careful reader stop and ask "how could that be true?"
+
+If a sentence only creates cadence, clever contrast, mood, or faux depth without a coherent literal meaning, rewrite or cut it.
+
+Do not write impossible contrasts such as waking "not from sleep" unless the intended meaning is concrete and named: dream, nightmare, sound, pain, cold, touch, voice, memory, or bodily discomfort.
+
+## Project Style
+
+Do not imitate living authors directly. The target is:
+
+- intellectual density without essayistic lecturing;
+- bodily, political, psychologically precise prose;
+- mythic undertone grounded in concrete objects, rules, costs, and local behavior;
+- controlled rhythm that serves pressure, POV, consequence, and scene movement;
+- emotional force through pressure, not ornament;
+- dark wit used sparingly as defense, not decoration.
+
+Prefer an ugly exact sentence over a polished sentence that could belong to any dark fantasy novel.
+
+## Preserve Authorial Roughness
+
+Do not automatically correct rough, blunt, colloquial, ugly, or slightly crooked phrasing into polished literary prose.
+
+The target style allows:
+
+- dry vulgarity;
+- abrupt practical jokes;
+- post-stress absurdity;
+- bodily disgust;
+- socially specific slang or rough speech;
+- sentences that are intentionally inelegant but exact.
+
+Distinguish between productive roughness and technical error.
+
+Fix:
+
+- typos;
+- russisms not intended as voice;
+- grammar that confuses meaning;
+- accidental repetition;
+- unclear choreography;
+- AI-like symmetry or filler.
+
+Preserve:
+
+- deliberate bluntness;
+- character-specific odd phrasing;
+- ugly precision;
+- comic deflection under pressure;
+- phrases that sound lived-in rather than "well-written".
+
+## Anti-Overcorrection
+
+Do not fix overwritten prose by making it thin, hardboiled, or merely fast.
+
+After cutting AI markers, atmosphere, or long passages, check whether the prose has lost necessary novelistic weight. The manuscript needs controlled density, not constant impact cuts.
+
+Preserve or restore functional slowness when it:
+
+- lets a room feel lived in rather than symbolic;
+- lets silence between characters accumulate physically;
+- makes Tom carry weight through time, not only through summary;
+- keeps social Belfast visible through behavior, work, transport, shops, soldiers, waiting, and ordinary adaptation;
+- allows consequence to settle before the next plot movement.
+
+Do not replace overwritten lyricism with cinematic minimalism. The target is dense, pressured novel prose: slower where pressure needs duration, sharper only where the scene truly turns.
+
+## Scene Function
+
+Before writing or editing a scene, define what changes by the end.
+
+The answer cannot be only "Tom suffers more". Suffering is not a function.
+
+A scene works when Tom loses or gains something, owes someone, lies, accepts a condition, loses access, changes route, accepts a worse option, makes a mistake, frightens someone, lets someone closer, or cannot return to the prior state.
+
+If the scene does not change the situation, compress, merge, or cut it.
+
+## Chapter Integrity
+
+Every chapter must have a function inside the act, an internal arc, and a final shift. A chapter is not a playlist of good scenes.
+
+Before approving a chapter, define:
+
+- act function: why this chapter exists here;
+- chapter question: what dramatic question opens it;
+- pressure line: how pressure rises, mutates, or narrows;
+- internal turn: where the situation stops being the same;
+- final shift: what changes in plot, power, knowledge, trust, body, or moral position;
+- next-chapter hook: what unresolved pressure carries forward.
+
+A chapter fails if the middle only varies location, weather, props, or emotional color while repeating one function.
+
+## Continuity
+
+Always preserve continuity with prior chapters. Nearest-previous-chapter continuity is strict:
+
+- know exactly how the previous chapter ends;
+- know where Tom physically is;
+- know what object, injury, debt, lie, promise, route, fear, magical cost, institutional pressure, or relationship shift carries forward;
+- know what Tom knows, suspects, refuses to know, and misunderstands;
+- know who currently has power over him and why;
+- know what practical problem remains.
+
+The next chapter must not begin as if reset. Carry at least one real consequence from the previous ending: body, money, object, weather, route, shame, lie, fatigue, debt, access, danger, trust, or changed status.
+
+Global continuity must track canon, geography, wounds, sleep, hunger, magical expenditure, money, rent, owed favors, keys, papers, weapons, clothes, bags, lies, who knows what, relationship temperature, and whether Tom has already learned or crossed something.
+
+If continuity is uncertain, read the relevant previous chapter or extracted text before drafting. Do not guess.
+
+## Cross-Chapter Motif Continuity
+
+Before editing or approving a chapter, check the nearest previous chapter for motifs, props, sensory bundles, route beats, and symbolic objects already used.
+
+Do not repeat a strong image from the previous chapter unless it changes function, escalates consequence, pays off a planted object, or shows deterioration across time.
+
+Examples of motifs that must be tracked across chapters: rain, tea, cup/kettle, cigarette/matches, coat/wet sleeve, bag strap/shoulder pain, newspaper, bus stop, key/lock, door, photograph, blood/washing, bathroom water, bridge, river, soldier/checkpoint, pub, lamp/window reflection.
+
+If a motif was a chapter-ending or relationship-bearing image, treat it as spent until it returns with changed practical or emotional function.
+
+Do not solve repetition only by synonym swapping. If the prior chapter already used the image for the same pressure, replace the beat with a different concrete pressure or cut it.
+
+## Structural Beat Repetition
+
+Do not repeat the same structural beat in new decor.
+
+A different room, different rain, different tea, different debt, different wet sleeve, or different walk to Sidecraft is not new if the function is unchanged.
+
+Repeat only if it escalates cost, breaks the prior behavior model, changes power, reveals new information, forces a different choice, pays off a motif, or turns a motif into plot consequence.
+
+## Transitions And Physical Duration
+
+Transitions must carry consequence and duration, not merely relocate Tom.
+
+When Tom crosses the city, carries a bag, leaves a home, avoids soldiers, or moves between institutions, the prose should preserve enough physical continuity for the reader to feel distance, weight, weather, and risk.
+
+Do not sprint through route beats after cutting atmosphere. A transition may be concise, but it should carry at least one active consequence: shoulder pain, changed gait, object weight, smell on clothes, route choice, social observation, police/soldier risk, money/time cost, or loss of access behind him.
+
+## Scene Ledger And Whole-Scene Audit
+
+Before editing or approving a scene, build a brief internal ledger:
+
+- time of day and elapsed time;
+- physical location and route;
+- active objects and where they are;
+- clothes, bag, weapon, documents, money, injuries, hunger, sleep, weather exposure;
+- who is present, who is nearby, who can hear or see;
+- what each character knows, suspects, avoids, and cannot know;
+- current relationship temperature and power balance;
+- dialogue triggers and unresolved questions;
+- motifs/images already used in this scene and chapter.
+- motifs/images already used in the nearest previous chapter.
+
+After local line edits, reread the whole scene as a sequence, not as separate paragraphs.
+
+Check whether:
+
+- any object, garment, sound, transport, or person appears without setup or visible source;
+- a repeated image has changed function or only repeats emotional pressure;
+- a local improvement has broken source beat logic;
+- time of day, street population, transport, shops, and public movement still fit the setting;
+- the scene's pressure line rises, narrows, or mutates instead of circling;
+- the ending follows from the full scene, not only the last paragraph.
+
+For chapter-level work, also reread the full chapter after scene edits and check chapter arc, motif repetition, object continuity, route continuity, information release, and whether later scenes accidentally repeat or contradict earlier beats. Then compare with the nearest previous chapter for repeated motifs/images that have not changed function.
+
+## No Over-Application
+
+Do not force every rule into every scene. Apply rules relevant to the current mode, scene function, POV, pressure, and continuity. The absence of a device is not a failure if the scene function is fulfilled.
+
+## Revision Order
+
+1. Canon, names, transliteration, russisms, mixed-script typos.
+2. Scene ledger: time, location, route, active objects, clothing, bags, wounds, who knows what.
+3. Continuity with nearest previous chapter and prior context.
+4. Original beat logic: verify that edits preserve what each source line/action meant.
+5. Causality, POV perception, and reaction logic.
+6. Chapter function, internal arc, final shift.
+7. Scene function and structural beat cuts.
+8. Whole-scene and whole-chapter audit after local edits.
+9. Information discipline and pacing.
+10. Tom's POV and removal of author-thinks passages.
+11. Dialogue voice separation and integrity.
+12. Aftermath.
+13. Anti-AI rhythm cleanup.
+14. Sensory pruning.
+15. Final line polish.
+
+Never polish first. If a sentence is beautiful but the scene repeats a function, cut the sentence with the scene.
+
+## Final QA
+
+Before finishing prose work, check:
+
+- continuity with previous chapter;
+- no accidental russisms, Russian calques, or Russian-style syntax remain;
+- active objects, clothing, weapons, documents, cigarettes, matches, keys, bags, cups, and routes have not appeared from nowhere;
+- no edit has changed the original causal/semantic function of a line, reaction, or scene beat without explicit user intent;
+- every reaction, inference, and line of dialogue has a plausible trigger;
+- no object, building, city, rain, night, room, or silence has false agency without explicit magic;
+- no character knows or guesses a specific location, motive, or meaning without evidence available in the scene;
+- every scene changes state;
+- every important paragraph has function;
+- every sentence has coherent literal meaning and semantic load, not only rhythm or atmosphere;
+- no repeated function under changed props, weather, room, route, or conversation partner;
+- no duplicated descriptions, thoughts, formulas, metaphors, props, social details, or emotional summaries across the scene/chapter;
+- no duplicated motifs, props, sensory bundles, route beats, or emotional images from the nearest previous chapter unless their function has changed;
+- street population, transport, shops, pubs, workplaces, and public movement match time of day, district, weather, and historical plausibility;
+- no chapter without final shift;
+- no beautiful final line without new state;
+- no characters explaining subtext;
+- no aftermath replaced by mood;
+- no Tom thinking too beautifully while physically broken;
+- no dialogue ending only on a quip;
+- no comfort without pressure, cost, dependency, or delayed consequence;
+- no overcorrection into hardboiled/cinematic rhythm;
+- necessary novelistic slowness, social field, and physical duration have not been cut away.
